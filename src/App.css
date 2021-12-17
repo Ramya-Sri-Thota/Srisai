@@ -1,0 +1,14 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.link {
+  text-decoration: none;
+}
+.background {
+  background-image: url("../public/images/bg-image.jpg");
+  min-height: 250px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: beige;
+}
